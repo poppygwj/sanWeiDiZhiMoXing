@@ -1,0 +1,35 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: DrawObject - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP3AB1.tmp" with contents
+[
+opengl32.lib glut32.lib glaux.lib glu32.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/DrawObject.pdb" /debug /machine:I386 /out:"Debug/DrawObject.exe" /pdbtype:sept /libpath:"F:\GWJcodes\DrawEarthFormation\gl" 
+".\Debug\DrawObject.obj"
+".\Debug\DrawObjectDoc.obj"
+".\Debug\DrawObjectView.obj"
+".\Debug\GRDECL.obj"
+".\Debug\JingDuTiao.obj"
+".\Debug\LightingDlg.obj"
+".\Debug\MainFrm.obj"
+".\Debug\PaiXu.obj"
+".\Debug\SetColorDlg.obj"
+".\Debug\StdAfx.obj"
+".\Debug\DrawObject.res"
+".\Debug\Global.obj"
+]
+Creating command line "link.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP3AB1.tmp"
+<h3>Output Window</h3>
+Linking...
+
+
+
+<h3>Results</h3>
+DrawObject.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
